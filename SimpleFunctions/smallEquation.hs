@@ -13,5 +13,5 @@ multiply a b = a*b
 
 func a b c = add (multiply a b) c 
 
-{- a=2, b=3, c=4 so answer will be 2x3+4 = 10 -}
+{- if we call func 2 3 4 then a=2, b=3, c=4 so answer will be 2x3+4 = 10 -}
 
