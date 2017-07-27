@@ -1,3 +1,6 @@
 # Haskell-Learning
 
-http://learnyouahaskell.com/chapters
+
+Here is the list haskell source code examples to learn haskell
+
+Tutorial used : http://learnyouahaskell.com/chapters
