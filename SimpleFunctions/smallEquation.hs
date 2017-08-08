@@ -17,3 +17,6 @@ func a b c = add (multiply a b) c
 
 
 
+main = do
+	let ans=func 2 3 4
+	print(ans)
