@@ -1,4 +1,4 @@
-# Haskell-Learning
+# Haskell Beginner Tutorial
 
 
 Here is the list haskell source code examples to learn haskell
